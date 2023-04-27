@@ -1,14 +1,14 @@
-Lokasi,Jumlah Kebakaran,response_time,Kapasitas_Tangki,Jarak ke Embung,Lokasi_Embung
-Gedung A,1,0.5,15000,0.05,Embung A
-Gedung B,1,0.5,15000,0.15,Embung A
-Gedung C,2,0.5,15000,0.09,Embung C
-Gedung D,2,1,15000,0.01,Embung C
-Gedung E,1,1,15000,0.24,Embung C
-Gedung F,1,1.5,15000,0.25,Embung C
-GKU 1,1,3,15000,0.49,Embung A
-GKU 2,2,2,15000,0.17,Embung C
-Labtek 1,2,2.5,15000,0.56,Embung A
-Labtek 2,2,2,15000,0.17,Embung C
-Labtek OZT,1,3,15000,0.6,Embung A
-Asrama,4,1.5,15000,0.22,Embung D
-GSG,1,1.5,15000,0.43,Embung D
+Lokasi,Jumlah Kebakaran,response_time,Kapasitas_Tangki,Jarak ke Embung,Lokasi_Embung,max units
+Gedung A,1,0.5,10000,0.05,Embung A,1
+Gedung B,1,0.5,10000,0.15,Embung A,1
+Gedung C,2,0.5,10000,0.09,Embung C,2
+Gedung D,2,1,10000,0.01,Embung C,1
+Gedung E,1,1,15000,0.24,Embung C,1
+Gedung F,1,1.5,15000,0.25,Embung C,1
+GKU 1,1,3,15000,0.49,Embung A,1
+GKU 2,2,2,10000,0.17,Embung C,1
+Labtek 1,2,2.5,15000,0.56,Embung A,1
+Labtek 2,2,2,10000,0.17,Embung C,1
+Labtek OZT,1,3,15000,0.6,Embung A,1
+Asrama,4,1.5,15000,0.22,Embung D,1
+GSG,1,1.5,15000,0.43,Embung D,1
